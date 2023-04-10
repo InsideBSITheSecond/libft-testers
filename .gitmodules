@@ -1,0 +1,9 @@
+[submodule "Libftest"]
+	path = Libftest
+	url = https://github.com/InsideBSITheSecond/Libftest
+[submodule "libft-unit-test"]
+	path = libft-unit-test
+	url = https://github.com/InsideBSITheSecond/libft-unit-test
+[submodule "libft-war-machine"]
+	path = libft-war-machine
+	url = https://github.com/InsideBSITheSecond/libft-war-machine
