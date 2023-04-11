@@ -1,1 +1,1 @@
-use `git submodule init` to get the submodules
+use `git submodule updqte --init --recursive --remote` to get the submodules
